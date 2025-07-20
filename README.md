@@ -1,4 +1,5 @@
 # Sofia Core – Reflective Architecture for AI Memory
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15824976.svg)](https://doi.org/10.5281/zenodo.15824976)
 
 **Version**: v1.0  
 **Author**: [Anonymous / under Creative Commons Attribution]  
@@ -112,5 +113,3 @@ Guidelines are available in two languages:
 
 This project is formally archived on Zenodo and can be cited via DOI:  
 🔗 https://doi.org/10.5281/zenodo.15824976
-
-You may reference this version in academic or technical contexts.
