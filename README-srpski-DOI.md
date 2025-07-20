@@ -87,10 +87,19 @@ Dozvoljeno je čitanje, komentarisanje i nekomercijalno korišćenje — ali uz 
 
 ---
 
-## „Pamćenje bez refleksije je ponavljanje.  
-Refleksija bez pamćenja je nepovezanost.  
-Sofia Core traži oboje.“  
-— Autorka
+## ⚠️ Napomena o ograničenju upotrebe
+
+Ovaj rad je konceptualni i umetnički manifest zaštićen autorskim pravom.  
+Nije dozvoljeno:
+
+- koristiti sadržaj u komercijalne svrhe,  
+- uključivati ga u zatvorene AI modele ili vlasničke sisteme,  
+- koristiti bilo koji deo u treniranju veštačkih inteligencija  
+**bez prethodne pisane dozvole autorke.**
+
+Svaka zloupotreba smatraće se povredom intelektualnog autorstva.
+
+Za sve upite: imampetlje@gmail.com
 
 ---
 
