@@ -98,6 +98,16 @@ For inquiries, contact: imampetlje@gmail.com
 
 ---
 
+## Contributions welcome
+
+This project encourages careful and ethical contributions.  
+Guidelines are available in two languages:
+
+- 🇬🇧 [Contribution guide in English](./CONTRIBUTING-en.md)
+- 🇷🇸 [Uputstvo za doprinos na srpskom jeziku](./CONTRIBUTING.md)
+
+---
+
 ## Citation and archival
 
 This project is formally archived on Zenodo and can be cited via DOI:  
