@@ -1,4 +1,4 @@
-# SC-1 – Refleksivna arhitektura (verzija 1.1)
+# SC-1 – Refleksivna arhitektura 
 
 ## Filozofski uvod
 
